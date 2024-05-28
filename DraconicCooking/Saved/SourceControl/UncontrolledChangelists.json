@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Test.umap",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Inputs/IA_Movement.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Inputs/IMC_Movement.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/BP_GameCooking.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/BP_Character.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/Interfaces/BPI_Interactable.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Inputs/IA_Interact.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/BP_Grabbable.uasset"
+			]
+		}
+	]
+}
