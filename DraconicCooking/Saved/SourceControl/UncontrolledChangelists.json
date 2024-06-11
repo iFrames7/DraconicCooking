@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/DraconicCooking/DraconicCooking/Content/Ricardo/BPI_Cookware.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/Interactable/BP_Stove.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/DraconicCooking/DraconicCooking/Content/Ricardo/BP_Stove.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/Interactable/BP_Cookware.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/DraconicCooking/DraconicCooking/Content/Ricardo/BP_Cookware.uasset",
+				"D:/Ricardo/Desktop/Nueva carpeta (3)/AAASemestre-main/PointClick/DraconicCooking/DraconicCooking/Content/Miguel/Test.umap",
 				"D:/ProyectosUE5/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/BP_Character.uasset",
 				"D:/ProyectosUE5/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/Interactable/BP_TableWithSlicingPlace.uasset",
 				"D:/ProyectosUE5/DraconicCooking/DraconicCooking/Content/Miguel/Blueprints/Interactable/BP_FoodItem.uasset",
