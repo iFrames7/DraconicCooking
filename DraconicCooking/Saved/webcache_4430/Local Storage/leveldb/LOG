@@ -1,3 +1,5 @@
-2024/06/03-22:53:53.540 46ec Reusing MANIFEST D:/ProyectosUE5/DraconicCooking/DraconicCooking/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/06/03-22:53:53.542 46ec Recovering log #3
-2024/06/03-22:53:53.543 46ec Reusing old log D:/ProyectosUE5/DraconicCooking/DraconicCooking/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/15-10:48:18.565 2830 Creating DB C:/Users/Feli22/Documents/GitHub/DraconicCooking/DraconicCooking/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/07/15-10:48:18.824 2830 Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/DraconicCooking/DraconicCooking/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/15-11:08:57.660 3664 Level-0 table #5: started
+2024/07/15-11:08:57.790 3664 Level-0 table #5: 15981 bytes OK
+2024/07/15-11:08:57.842 3664 Delete type=0 #3
